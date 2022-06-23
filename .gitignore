@@ -1,5 +1,8 @@
 venv/
 .env
 __pycache__/
+USER_DATA.py
 app.session
 my_account.session
+members.json
+error_members.json
